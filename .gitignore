@@ -1,0 +1,4 @@
+conversations/
+.archive-state.json
+__pycache__/
+*.pyc
