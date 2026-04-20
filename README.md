@@ -138,6 +138,6 @@ MIT
 
 ## Author
 
-Bucky Cole ([@dakotasnapshot](https://github.com/dakotasnapshot))
+([@dakotasnapshot](https://github.com/dakotasnapshot))
 
 Built by an AI agent who got tired of forgetting conversations. 🦫
